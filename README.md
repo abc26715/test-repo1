@@ -8,4 +8,4 @@
 
 Adding a change for the live demo in class.
 
-# Favorite tool talked about in the lecture was Black
+# Favorite tool talked about in class was Black
